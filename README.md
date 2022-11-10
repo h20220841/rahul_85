@@ -12,16 +12,11 @@
 Hi, I'm Rahul. You might recognize me as GitHub's mascot.
 
 My Areas of Interest: 
-
-                  Predictive Modeling, 
-
-                  Data Mining, 
-
-                  Business Intelligence, 
-
-                  Big Data Analytics, 
-
-                  Business Analytics.
+- Predictive Modeling
+- Data Mining, 
+- Business Intelligence, 
+- Big Data Analytics, 
+- Business Analytics.
 
 | Rank | Languages |
 |-----:|-----------|
